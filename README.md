@@ -13,11 +13,11 @@ Open Source Software
 
 # [↑](#contents) Messaging
 * [Briarproject](https://briarproject.org/)
-* [Rocket.chat]https://rocket.chat/)
+* [Rocket.chat](https://rocket.chat/)
 * [Mattermost](https://mattermost.com/)
 * [Zulip](https://zulipchat.com/)
 * [Riot](https://about.riot.im/)
-* [Wire](https://wire.com/
+* [Wire](https://wire.com/)
 * [Signal](https://www.signal.org/)
 
 # [↑](#contents) Conferences
