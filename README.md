@@ -1,5 +1,16 @@
 
 ## 📖 Table of Contents
+- [Groupware](#-groupware)
+- [Video](#-video)
+- [Messaging](#-messaging)
+- [Conferences](#-conferences)
+- [Passwords](#-passwords)
+- [E-Commerce](#-e-commerce)
+- [CMS](#-cms)
+- [Ticketing](#-ticketing)
+- [HR](#-hr)
+- [Tools](#-tools)
+- [Other](#-other)
 
 # [↑](#contents) Groupware
 * [Nextcloud](https://nextcloud.com)
