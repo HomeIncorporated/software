@@ -4,6 +4,7 @@
 # [↑](#contents) Groupware
 * [Nextcloud](https://nextcloud.com)
 * [Etherpad](https://etherpad.org/)
+* [Mattermost](https://mattermost.com/)
 
 # [↑](#contents) Video
 * [Opencast](https://opencast.org/)
@@ -13,7 +14,6 @@
 # [↑](#contents) Messaging
 * [Briarproject](https://briarproject.org/)
 * [Rocket.chat](https://rocket.chat/)
-* [Mattermost](https://mattermost.com/)
 * [Zulip](https://zulipchat.com/)
 * [Riot](https://about.riot.im/)
 * [Wire](https://wire.com/)
@@ -25,6 +25,7 @@
 # [↑](#contents) Passwords
 * [Keypass](https://keepass.info/)
 * [Passbold](https://www.passbolt.com/)
+* [Shhh](https://github.com/smallwat3r/shhh)
 
 # [↑](#contents) E-Commerce
 * [Reaction Commerce](https://reactioncommerce.com/)
@@ -37,6 +38,9 @@
 
 # [↑](#contents) Ticketing
 * [OTRS](https://otrs.com/)
+
+# [↑](#contents) HR
+* [TimeOff.Management](https://github.com/timeoff-management/timeoff-management-application)
 
 # Tools
 * [Cyberduck](https://cyberduck.io/)
