@@ -10,6 +10,7 @@
 - [Projectmanagement](#-Projectmanagement)
 - [Messaging](#-messaging)
 - [Conferences](#-conferences)
+- [Mail](#-mail)
 - [Passwords](#-passwords)
 - [E-Commerce](#-e-commerce)
 - [CMS](#-cms)
@@ -21,7 +22,9 @@
 - [ERP](#-erp)
 - [CRM](#-crm)
 - [Helpdesk](#-helpdesk)
+- [Finance](#-finance)
 - [Tools](#-tools)
+- [Docs](#-docs)
 - [Other](#-other)
 
 # [↑](#contents) Groupware
@@ -69,6 +72,10 @@
 
 # [↑](#contents) Conferences
 * [Bigbluebutton](http://docs.bigbluebutton.org/)
+* [Jitsi](https://jitsi.org/)
+
+# [↑](#contents) Mail
+* [hMailServer](https://www.hmailserver.com/)
 * [Jitsi](https://jitsi.org/)
 
 # [↑](#contents) Passwords
@@ -126,8 +133,14 @@
 # [↑](#contents) Helpdesk
 * [Helpy](https://helpy.io/)
 
+# [↑](#contents) Finance
+* [Firefly III](https://github.com/firefly-iii/firefly-iii)
+
 # Tools
 * [Cyberduck](https://cyberduck.io/)
+
+# Docs
+* [DevDocs - API Documentation Browser](https://github.com/freeCodeCamp/devdocs)
 
 # Other
 * [List of free and open-source software packages](https://en.m.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
