@@ -10,6 +10,7 @@
 - [Projectmanagement](#-Projectmanagement)
 - [Messaging](#-messaging)
 - [Conferences](#-conferences)
+- [Mail Server](#-mail-server)
 - [Mail](#-mail)
 - [Passwords](#-passwords)
 - [E-Commerce](#-e-commerce)
@@ -74,9 +75,11 @@
 * [Bigbluebutton](http://docs.bigbluebutton.org/)
 * [Jitsi](https://jitsi.org/)
 
-# [↑](#contents) Mail
+# [↑](#contents) Mail Server
 * [hMailServer](https://www.hmailserver.com/)
-* [Jitsi](https://jitsi.org/)
+
+# [↑](#contents) Mail
+* [Thunderbird](https://www.thunderbird.net)
 
 # [↑](#contents) Passwords
 * [Keypass](https://keepass.info/)
