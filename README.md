@@ -18,12 +18,17 @@
 - [Ticketing](#-ticketing)
 - [Plattform as a service](#-plattform-as-a-service)
 - [Git](#-git)
+- [Development](#-development)
 - [Remote Desktop](#-remote-desktop)
 - [HR](#-hr)
 - [ERP](#-erp)
 - [CRM](#-crm)
 - [Helpdesk](#-helpdesk)
 - [Finance](#-finance)
+- [Marketing](#-marketing)
+- [Newsletter](#-newsletter)
+- [API](#-api)
+- [OS](#-os)
 - [Tools](#-tools)
 - [Docs](#-docs)
 - [Other](#-other)
@@ -120,6 +125,9 @@
 * [Gitea](https://gitea.io/)
 * [OneDev](https://github.com/theonedev/onedev)
 
+## [↑](#contents) Development
+* [Phacility](https://www.phacility.com/phabricator/)
+
 ## [↑](#contents) Remote Deskop
 * [Apache Gucacomole](https://guacamole.apache.org/)
 * [Myrtille](https://github.com/cedrozor/myrtille)
@@ -139,12 +147,31 @@
 # [↑](#contents) Finance
 * [Firefly III](https://github.com/firefly-iii/firefly-iii)
 
+# [↑](#contents) Marketing
+* [Mautic](https://www.mautic.org/)
+
+# [↑](#contents) Newsletter
+* [Listmonk](https://github.com/knadh/listmonk)
+
+# [↑](#contents) API
+* [Krankend.io](https://www.krakend.io/)
+* [Fusio](https://www.fusio-project.org/)
+* [Express Gateway](https://www.express-gateway.io/)
+
+# [↑](#contents) OS
+* [Xubuntu](https://xubuntu.org/)
+* [Ubuntu](https://ubuntu.com/)
+* [Debian](https://www.debian.org/)
+
 # Tools
 * [Cyberduck](https://cyberduck.io/)
+* [Flathub](https://flathub.org/)
 
 # Docs
 * [DevDocs - API Documentation Browser](https://github.com/freeCodeCamp/devdocs)
 
 # Other
 * [List of free and open-source software packages](https://en.m.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
+* [Awesome open source - Deploy your own SAAS](https://awesomeopensource.com/project/Atarity/deploy-your-own-saas)
+* [Awesome open source - Selfhosted](https://awesomeopensource.com/projects/self-hosted)
 * [Sourcehut](https://sourcehut.org/)
