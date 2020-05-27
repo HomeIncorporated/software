@@ -29,6 +29,7 @@
 - [Newsletter](#-newsletter)
 - [API](#-api)
 - [OS](#-os)
+- [Firewall](#-firewall)
 - [Tools](#-tools)
 - [Docs](#-docs)
 - [Other](#-other)
@@ -163,14 +164,21 @@
 * [Ubuntu](https://ubuntu.com/)
 * [Debian](https://www.debian.org/)
 
-# Tools
+## [↑](#contents) Firewall
+* [PFSense](https://www.pfsense.org/)
+* [ConfigServer Security & Firewall](https://configserver.com/cp/csf.html)
+* [Smoothwall Express](https://smoothwall.org/)
+* [IPFire](https://www.ipfire.org/)
+* [OPNsense](https://opnsense.org/)
+
+# [↑](#contents) Tools
 * [Cyberduck](https://cyberduck.io/)
 * [Flathub](https://flathub.org/)
 
-# Docs
+# [↑](#contents) Docs
 * [DevDocs - API Documentation Browser](https://github.com/freeCodeCamp/devdocs)
 
-# Other
+# [↑](#contents) Other
 * [List of free and open-source software packages](https://en.m.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)
 * [Awesome open source - Deploy your own SAAS](https://awesomeopensource.com/project/Atarity/deploy-your-own-saas)
 * [Awesome open source - Selfhosted](https://awesomeopensource.com/projects/self-hosted)
