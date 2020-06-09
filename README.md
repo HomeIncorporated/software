@@ -13,6 +13,7 @@
 - [Mail Server](#-mail-server)
 - [Mail](#-mail)
 - [Passwords](#-passwords)
+- [Encryption](#-encryption)
 - [E-Commerce](#-e-commerce)
 - [CMS](#-cms)
 - [Ticketing](#-ticketing)
@@ -30,6 +31,7 @@
 - [API](#-api)
 - [OS](#-os)
 - [Firewall](#-firewall)
+- [DNS](#-dns)
 - [Tools](#-tools)
 - [Docs](#-docs)
 - [Other](#-other)
@@ -95,6 +97,10 @@
 * [Buttercup](https://buttercup.pw/)
 * [PasswordCockpit](https://passwordcockpit.com)
 
+# [↑](#contents) Encryption
+* [Cryptomator](https://cryptomator.org/)
+* [VeraCrypt](https://www.veracrypt.fr/)
+
 # [↑](#contents) E-Commerce
 * [Reaction Commerce](https://reactioncommerce.com/)
 * [Sylius](https://sylius.com/)
@@ -119,6 +125,7 @@
 * [Flynn](https://flynn.io/)
 * [CapRover](https://caprover.com/)
 * [Tsuru](https://tsuru.io/)
+* [Openfaas](https://www.openfaas.com/)
 
 ## [↑](#contents) Git
 * [Gogs](https://gogs.io/)
@@ -158,6 +165,7 @@
 * [Krankend.io](https://www.krakend.io/)
 * [Fusio](https://www.fusio-project.org/)
 * [Express Gateway](https://www.express-gateway.io/)
+* [Nord-RED](https://nodered.org/)
 
 # [↑](#contents) OS
 * [Xubuntu](https://xubuntu.org/)
@@ -171,6 +179,9 @@
 * [IPFire](https://www.ipfire.org/)
 * [OPNsense](https://opnsense.org/)
 
+## [↑](#contents) DNS
+* [Unbound DNS](https://nlnetlabs.nl/projects/unbound/about/)
+
 # [↑](#contents) Tools
 * [Cyberduck](https://cyberduck.io/)
 * [Flathub](https://flathub.org/)
@@ -183,3 +194,4 @@
 * [Awesome open source - Deploy your own SAAS](https://awesomeopensource.com/project/Atarity/deploy-your-own-saas)
 * [Awesome open source - Selfhosted](https://awesomeopensource.com/projects/self-hosted)
 * [Sourcehut](https://sourcehut.org/)
+* [Self hosted alternatives](https://www.rosehosting.com/blog/self-hosted-alternatives/)
