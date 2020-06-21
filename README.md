@@ -32,6 +32,7 @@
 - [OS](#-os)
 - [Firewall](#-firewall)
 - [DNS](#-dns)
+- [CAD](#-cas)
 - [Tools](#-tools)
 - [Docs](#-docs)
 - [Other](#-other)
@@ -78,6 +79,7 @@
 * [Riot](https://about.riot.im/)
 * [Wire](https://wire.com/)
 * [Signal](https://www.signal.org/)
+* [Franz](https://github.com/meetfranz/franz)
 
 # [↑](#contents) Conferences
 * [Bigbluebutton](http://docs.bigbluebutton.org/)
@@ -181,6 +183,9 @@
 
 ## [↑](#contents) DNS
 * [Unbound DNS](https://nlnetlabs.nl/projects/unbound/about/)
+
+# [↑](#contents) CAD
+* [FabLab - A list of free and opensource tools for designing and making](https://github.com/geobruce/FabLab)
 
 # [↑](#contents) Tools
 * [Cyberduck](https://cyberduck.io/)
